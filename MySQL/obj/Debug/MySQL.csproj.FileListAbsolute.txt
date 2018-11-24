@@ -1,0 +1,286 @@
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\MySQL\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\5 - Insert Data\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\2 - Display Data & Insert Data\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\4 - Search\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\6 - Update\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\7 - Delete\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\bin\Debug\PropertyChanged.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\bin\Debug\PropertyChanged.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete - Cleaned\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\bin\Debug\PropertyChanged.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\bin\Debug\PropertyChanged.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\ControlzEx.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\MahApps.Metro.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\System.Windows.Interactivity.dll
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\ControlzEx.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\MahApps.Metro.pdb
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\bin\Debug\MahApps.Metro.xml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\App.baml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\Resources\Icons.baml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\Resources\IconsNonShared.baml
+E:\Downloads\VS 2017\MySQL\7 - Delete - MVVM - DataGrid\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\ControlzEx.dll
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\MahApps.Metro.dll
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\System.Windows.Interactivity.dll
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\ControlzEx.pdb
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\MahApps.Metro.pdb
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\MahApps.Metro.xml
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\Resources\Icons.baml
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\Resources\IconsNonShared.baml
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\App.baml
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\8 - Insert Update Delete Data\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\ControlzEx.dll
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\MahApps.Metro.dll
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\System.Windows.Interactivity.dll
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\ControlzEx.pdb
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\MahApps.Metro.pdb
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\MahApps.Metro.xml
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\Resources\Icons.baml
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\Resources\IconsNonShared.baml
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\App.baml
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\8 & 9 - First - Last - Next - Previous\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\MySQL.exe.config
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\ControlzEx.dll
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\Google.Protobuf.dll
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\MahApps.Metro.dll
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\MySql.Data.dll
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\System.Windows.Interactivity.dll
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\ControlzEx.pdb
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\Google.Protobuf.xml
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\MahApps.Metro.pdb
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\MahApps.Metro.xml
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\bin\Debug\MySql.Data.xml
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\Resources\Icons.baml
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\Resources\IconsNonShared.baml
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MainWindow.g.cs
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\App.g.cs
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL_MarkupCompile.cache
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL_MarkupCompile.lref
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\App.baml
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MainWindow.baml
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.g.resources
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.csproj.GenerateResource.cache
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.exe
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.pdb
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\Styles\CustomControls.baml
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\Styles\Fonts.baml
+E:\Downloads\VS 2017\MySQL\10 - How To Populate A ListBox\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache

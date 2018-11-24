@@ -1,0 +1,44 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                    xmlns:local="clr-namespace:MySQL">
+
+    <ResourceDictionary.MergedDictionaries>
+        <!-- Order is important -->
+        <ResourceDictionary Source="Fonts.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+
+    <!-- ########################################################### -->
+    <!-- ###                    Textbox style                    ### -->
+    <!-- ########################################################### -->
+
+    <!-- Default textbox -->
+    <Style TargetType="{x:Type TextBox}" BasedOn="{StaticResource {x:Type TextBox}}">
+        <Setter Property="FontFamily" Value="{StaticResource LatoRegular}" />
+        <Setter Property="FontSize" Value="{StaticResource FontSizeRegular}" />
+        <Setter Property="FontSize" Value="18" />
+        <Setter Property="Height" Value="30" />
+        <Setter Property="Controls:TextBoxHelper.ClearTextButton" Value="True" />
+    </Style>
+
+    <!-- ########################################################### -->
+    <!-- ###                     Button style                    ### -->
+    <!-- ########################################################### -->
+
+    <Style x:Key="BaseButtonStyle" TargetType="{x:Type Button}" BasedOn="{StaticResource AccentedSquareButtonStyle}">
+        <Setter Property="FontFamily" Value="{StaticResource LatoRegular}" />
+        <Setter Property="FontSize" Value="{StaticResource FontSizeRegular}" />
+        <Setter Property="FontSize" Value="22" />
+        <Setter Property="Height" Value="45" />
+        <Setter Property="VerticalContentAlignment" Value="Center" />        
+    </Style>
+
+    <!-- Default button -->
+    <Style TargetType="{x:Type Button}" BasedOn="{StaticResource BaseButtonStyle}" />
+
+    <!-- Database request button -->
+    <Style x:Key="DatabaseButton" TargetType="{x:Type Button}" BasedOn="{StaticResource BaseButtonStyle}">
+        <Setter Property="Width" Value="190" />       
+    </Style>
+
+</ResourceDictionary>
