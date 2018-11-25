@@ -22,7 +22,7 @@ This step by step tutorial aims to guide you to launch properly the project by t
    => https://stackoverflow.com/questions/6682916/how-to-take-backup-of-a-single-table-in-a-mysql-database 
    
 9) Launch the application by:
-   - Clicking on the 'MySQL.exe' file located at this path '.../MySQLBasics-master/MySQL/bin/Debug' 
-   - Opening (if not already) the 'MySQL.sln' file and then by clicking on the running button
-   
+   => Clicking on the 'MySQL.exe' file located at this path '.../MySQLBasics-master/MySQL/bin/Debug' 
+   => Opening (if not already) the 'MySQL.sln' file and then by clicking on the running button
+
 10) Bravo !
