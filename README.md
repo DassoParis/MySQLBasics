@@ -1,5 +1,5 @@
 # MySQLBasics
-A C#/.NET/WPF/MVVM project with modern design UI and basic database commands
+A C#/.NET/WPF/MVVM/MySQL project with a modern design UI and basic database commands
 
 This step by step tutorial aims to guide you to launch properly the project by taking in account the difference between the original local database of this project and your local database.
 
@@ -7,7 +7,7 @@ This step by step tutorial aims to guide you to launch properly the project by t
 
 2) Install (if not already) Visual Studio => https://visualstudio.microsoft.com/fr/downloads/
 
-3) Clone or download the current 'MySQLBasics' repository
+3) Clone or download this repository => 'MySQLBasics' 
 
 4) Click and open the 'MySQL.sln' file
 
@@ -17,8 +17,8 @@ This step by step tutorial aims to guide you to launch properly the project by t
 
 7) Create a 'test' database on your MySQL server 
 
-8) inside this 'test' databse import the 'Classe' table located in this project at this path    
-   '.../MySQLBasics-master/Resources/classe_table.sql', find help on this thread discussion 
+8) inside this 'test' database import the 'Classe' table located in this project at this path    
+   '.../MySQLBasics-master/Resources/classe_table.sql'. Find help on 'importing a table' on this thread discussion 
    => https://stackoverflow.com/questions/6682916/how-to-take-backup-of-a-single-table-in-a-mysql-database 
    
 9) Launch the application by:
