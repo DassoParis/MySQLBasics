@@ -26,6 +26,9 @@ This step by step tutorial aims to guide you to launch properly the project by t
    
 10) Bravo, now enjoy my dear geek !
 
+
+
+
 The below screenshot corresponds to what your are going to see at application launch. Nice isn't it :)
 
 ![AppAtLaunch](Resources/AppAtLaunch.png)
