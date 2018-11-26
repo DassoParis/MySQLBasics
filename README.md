@@ -25,3 +25,5 @@ This step by step tutorial aims to guide you to launch properly the project by t
    - Opening (if not already) the 'MySQL.sln' file and then by clicking on the running button
    
 10) Bravo !
+
+![AppAtLaunch](Resources/AppAtLaunch.png.jpg)
