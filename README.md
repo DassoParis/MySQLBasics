@@ -24,6 +24,8 @@ This step by step tutorial aims to guide you to launch properly the project by t
    - Clicking on the 'MySQL.exe' file located at this path '.../MySQLBasics-master/MySQL/bin/Debug' 
    - Opening (if not already) the 'MySQL.sln' file and then by clicking on the running button
    
-10) Bravo !
+10) Bravo, now enjoy my dear geek !
+
+The below screenshot corresponds to what your are going to see at application launch. Nice isn't it :)
 
 ![AppAtLaunch](Resources/AppAtLaunch.png)
