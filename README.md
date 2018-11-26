@@ -26,4 +26,4 @@ This step by step tutorial aims to guide you to launch properly the project by t
    
 10) Bravo !
 
-![AppAtLaunch](Resources/AppAtLaunch.png.jpg)
+![AppAtLaunch](Resources/AppAtLaunch.png)
