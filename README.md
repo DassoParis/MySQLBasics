@@ -1,5 +1,6 @@
 # MySQLBasics
-A C#/.NET/WPF/MVVM/MySQL project with a modern design UI and basic database commands
+
+A C#/.NET/WPF/MVVM project with a modern design UI and basic commands to interact with a MySQL database
 
 This step by step tutorial aims to guide you to launch properly the project by taking in account the difference between the original local database of this project and your local database.
 
